@@ -68,3 +68,5 @@ hesap1.faiz_uygula()
 print(musteri1.hesaplar["12345"])
 
 musteri1.hesap_sil("67890")
+
+# izzettin şu satırda ya da şu fonksiyonda şunu şunu yapabilirsin. izzettin fonksiyonları iç içe yazabilirsin.
