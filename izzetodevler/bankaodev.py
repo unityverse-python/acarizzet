@@ -68,3 +68,4 @@ hesap1.faiz_uygula()
 print(musteri1.hesaplar["12345"])
 
 musteri1.hesap_sil("67890")
+
