@@ -36,3 +36,4 @@ for i in range(3):
 print("Aktif Uçaklar:")
 for ucus in trafik_kontrol.ucuslar:
     print(ucus)
+

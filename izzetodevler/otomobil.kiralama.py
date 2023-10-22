@@ -65,3 +65,4 @@ kullanici2.araba_iade_et()
 
 kullanici1.kiralama_gecmisini_goruntule()
 kullanici2.kiralama_gecmisini_goruntule()
+
