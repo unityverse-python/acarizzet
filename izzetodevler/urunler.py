@@ -73,3 +73,4 @@ magaza.siparis_al(3, 3, musteri2)
 
 print("\nMevcut Ürünler:")
 magaza.urun_listele()
+
